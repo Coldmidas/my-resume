@@ -1471,7 +1471,7 @@ margin-top: 30px;
     position: absolute;
     width: 256px;
     z-index: -1;
-    right: 13px;
+    right: -90px;
     bottom: 330px;
   }
 
